@@ -1,2 +1,2 @@
-# GoodPro712.github.io
+# Metacinnabar.github.io
 My GitHub page repository.
